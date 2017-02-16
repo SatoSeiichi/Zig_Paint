@@ -38,10 +38,11 @@ https://www.assetstore.unity3d.com/jp/#!/content/55222
 
 # 動作確認
 
+・GAME　Viewの解像度設定をスマホの解像度と一緒にする(iphone7の場合　横750*縦1334にする)
+
 ・paint_zigシーン　を開く
  
- ・hierarchy上のMain CameraオブジェクトにアタッチされているZigRecieverのport noでUnity上のPORT NUMBERを変更することが可能です　デフォルト 50000
+・hierarchy上のMain CameraオブジェクトにアタッチされているZigRecieverのport noでUnity上のPORT NUMBERを変更することが可能です　デフォルト 50000
  
- ・unityをplayし　ZigSimアプリのStartタブをタップし画面をなぞって線が出れば成功です
- 
+・unityをplayし　ZigSimアプリのStartタブをタップし画面をなぞって線が出れば成功です
  
